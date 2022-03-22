@@ -9,7 +9,7 @@
   
   inputs.src-illwill-master.flake = false;
   inputs.src-illwill-master.owner = "johnnovak";
-  inputs.src-illwill-master.ref   = "refs/heads/master";
+  inputs.src-illwill-master.ref   = "master";
   inputs.src-illwill-master.repo  = "illwill";
   inputs.src-illwill-master.type  = "github";
   
