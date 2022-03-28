@@ -11,7 +11,6 @@
   inputs.src-illwill-master.ref   = "refs/heads/master";
   inputs.src-illwill-master.owner = "johnnovak";
   inputs.src-illwill-master.repo  = "illwill";
-  inputs.src-illwill-master.dir   = "";
   inputs.src-illwill-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
